@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @nidulsinha
+- 👀 I’m interested in developing new machine learning algorithms.
+- 🌱 We are working on the application of machine learning and soft computing techniques  EEG based brainwaves analysis,
+- 💞️ I will be happy to collaborate with other on application of AI, machine learning and soft computing techniques effective diagnosis and treatment of neurological diseases with application of meditation, mind programming and other holistic techniques.
+- I am a professor in National Institute of Technology Silchar, Assam, India.
+- 
